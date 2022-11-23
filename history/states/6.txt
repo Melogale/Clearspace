@@ -1,0 +1,29 @@
+state = {
+	id = 6
+	name = "STATE_6"
+	manpower = 421280
+	state_category = metropolis
+	resources = {
+		oil = 54
+		aluminium = 6
+	}
+	history = {
+		owner = QIQ
+		add_core_of = QIQ
+		victory_points = { 9713 1 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 1
+			air_base = 6
+			610 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		610 677 768 781 3588 3644 6482 6665 6681 6745 6757 6772 9697 9713 9730 11658
+	}
+	local_supplies = 0.0
+}

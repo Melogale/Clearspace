@@ -1,0 +1,26 @@
+state = {
+	id = 278
+	name = "STATE_278"
+	manpower = 1582219
+	state_category = large_town
+	resources = {
+		rubber = 13
+		tungsten = 7
+		steel = 1
+	}
+	history = {
+		owner = MLC
+		add_core_of = MLC
+		victory_points = { 12299 10 }
+		buildings = {
+			infrastructure = 2
+			12299 = {
+				naval_base = 8
+			}
+		}
+	}
+	provinces = {
+		12299
+	}
+	local_supplies = 0.0
+}

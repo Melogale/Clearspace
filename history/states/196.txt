@@ -1,0 +1,21 @@
+state = {
+	id = 196
+	name = "STATE_196"
+	manpower = 2258067
+	state_category = town
+	resources = {
+		tungsten = 9
+		steel = 7
+	}
+	history = {
+		owner = JAP
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		852 898 906 959 3803 3852 3860 3904 3981 6822 6922 6944 9899 11878
+	}
+	local_supplies = 0.0
+}

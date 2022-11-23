@@ -1,0 +1,33 @@
+state = {
+	id = 661
+	name = "STATE_661"
+	manpower = 676459
+	state_category = rural
+	resources = {
+		steel = 2
+	}
+	history = {
+		owner = EST
+		add_core_of = EST
+		victory_points = { 185 1 }
+		victory_points = { 3152 5 }
+		victory_points = { 3174 1 }
+		victory_points = { 4640 1 }
+		victory_points = { 11127 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			3152 = {
+				naval_base = 3
+			}
+			4640 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		83 185 496 567 3074 3152 3174 4640 6201 9079 11057 11127 11426 11443
+	}
+	local_supplies = 1.0
+}

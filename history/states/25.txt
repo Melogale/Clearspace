@@ -1,0 +1,22 @@
+state = {
+	id = 25
+	name = "STATE_25"
+	manpower = 304745
+	state_category = large_town
+	resources = {
+		oil = 4
+	}
+	history = {
+		owner = AZT
+		add_core_of = AZT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		2060 2104 10746 10800 12811 12850 12897
+	}
+	local_supplies = 0.0
+}

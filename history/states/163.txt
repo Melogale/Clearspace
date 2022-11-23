@@ -1,0 +1,18 @@
+state = {
+	id = 163
+	name = "STATE_163"
+	manpower = 723332
+	state_category = rural
+	history = {
+		owner = MON
+		add_core_of = MON
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		1698 1838 4704 4843 4947 7732 10839 12524 12598 12671
+	}
+	local_supplies = 0.0
+}

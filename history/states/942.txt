@@ -1,0 +1,17 @@
+state = {
+	id = 942
+	name = "STATE_942"
+	manpower = 1360841
+	state_category = town
+	history = {
+		owner = GTC
+		victory_points = { 11969 10 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		11969
+	}
+	local_supplies = 0.0
+}

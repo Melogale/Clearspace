@@ -1,0 +1,22 @@
+state = {
+	id = 801
+	name = "STATE_801"
+	manpower = 2086713
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+	history = {
+		owner = TRN
+		victory_points = { 12248 1 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	provinces = {
+		7448 7584 7916 7984 10476 10852 10896 12248 12877
+	}
+	local_supplies = 0.0
+}

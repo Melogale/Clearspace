@@ -1,0 +1,28 @@
+state = {
+	id = 265
+	name = "STATE_265"
+	manpower = 587681
+	state_category = large_town
+	resources = {
+		aluminium = 6
+		rubber = 150
+		tungsten = 83
+		steel = 8
+	}
+	history = {
+		owner = MLC
+		add_core_of = MLC
+		victory_points = { 10297 1 }
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			10297 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces = {
+		1376 4367 4384 4412 4424 7427 10297 10313 12113 12255 12271
+	}
+	local_supplies = 0.0
+}

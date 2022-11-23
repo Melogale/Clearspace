@@ -1,0 +1,18 @@
+state = {
+	id = 880
+	name = "STATE_880"
+	manpower = 923481
+	state_category = rural
+	history = {
+		owner = BUR
+		add_core_of = COG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		4128 7548 10025 12896 12945
+	}
+	local_supplies = 1.0
+}

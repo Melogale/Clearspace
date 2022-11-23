@@ -1,0 +1,16 @@
+state = {
+	id = 958
+	name = "STATE_958"
+	manpower = 70277
+	state_category = wasteland
+	history = {
+		owner = TRN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		4923 8027 10417 12805
+	}
+	local_supplies = 0.0
+}

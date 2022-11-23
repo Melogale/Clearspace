@@ -1,0 +1,19 @@
+state = {
+	id = 891
+	name = "STATE_891"
+	manpower = 1814436
+	state_category = rural
+	history = {
+		owner = BUR
+		buildings = {
+			infrastructure = 1
+			6039 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		1993 6039 7963 9137 11194
+	}
+	local_supplies = 0.0
+}

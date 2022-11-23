@@ -1,0 +1,19 @@
+state = {
+	id = 780
+	name = "STATE_780"
+	manpower = 536517
+	state_category = city
+	resources = {
+		steel = 1
+	}
+	history = {
+		owner = NEP
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		4435
+	}
+	local_supplies = 0.0
+}

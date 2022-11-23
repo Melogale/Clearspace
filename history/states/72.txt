@@ -1,0 +1,32 @@
+state = {
+	id = 72
+	name = "STATE_72"
+	manpower = 19016918
+	state_category = megalopolis
+	resources = {
+		steel = 9
+	}
+	history = {
+		owner = VIN
+		add_core_of = VIN
+		victory_points = { 3878 30 }
+		victory_points = { 6845 20 }
+		victory_points = { 6882 5 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			dockyard = 6
+			air_base = 4
+			3878 = {
+				naval_base = 6
+			}
+			6845 = {
+				naval_base = 8
+			}
+		}
+	}
+	provinces = {
+		859 3693 3824 3863 3878 6845 6869 6882 9801 9820 9864 11740 11782 11785 11799 11900
+	}
+	local_supplies = 7.0
+}

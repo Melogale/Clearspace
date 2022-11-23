@@ -1,0 +1,20 @@
+state = {
+	id = 884
+	name = "STATE_884"
+	manpower = 866903
+	state_category = pastoral
+	resources = {
+		rubber = 1
+	}
+	history = {
+		owner = BUR
+		add_core_of = COG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		1181 4941 7161 8048 10766 10858
+	}
+	local_supplies = 0.0
+}

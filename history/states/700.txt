@@ -1,0 +1,17 @@
+state = {
+	id = 700
+	name = "STATE_700"
+	manpower = 496400
+	state_category = town
+	history = {
+		owner = PLC
+		add_core_of = PLC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		6435 6520 11543
+	}
+	local_supplies = 0.0
+}

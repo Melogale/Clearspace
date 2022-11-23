@@ -1,0 +1,18 @@
+state = {
+	id = 727
+	name = "STATE_727"
+	manpower = 742957
+	state_category = town
+	history = {
+		owner = HUN
+		add_core_of = HUN
+		add_core_of = TRA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		713 746 3696 9687 9704 11676
+	}
+	local_supplies = 9.0
+}

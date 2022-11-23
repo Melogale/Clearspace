@@ -1,0 +1,24 @@
+state = {
+	id = 939
+	name = "STATE_939"
+	manpower = 148058
+	state_category = enclave
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		victory_points = { 1903 1 }
+		buildings = {
+			infrastructure = 1
+			1903 = {
+				naval_base = 1
+			}
+			13015 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		1903 13015
+	}
+	local_supplies = 0.0
+}

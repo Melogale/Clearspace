@@ -1,0 +1,18 @@
+state = {
+	id = 816
+	name = "STATE_816"
+	manpower = 589484
+	state_category = town
+	history = {
+		owner = PER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces = {
+		4580 4637 10385 10768
+	}
+	local_supplies = 0.0
+}

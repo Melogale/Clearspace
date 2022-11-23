@@ -1,0 +1,22 @@
+state = {
+	id = 560
+	name = "STATE_560"
+	manpower = 505833
+	state_category = city
+	resources = {
+		steel = 6
+	}
+	history = {
+		owner = BUR
+		add_core_of = BUR
+		victory_points = { 11516 5 }
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+		}
+	}
+	provinces = {
+		521 11516
+	}
+	local_supplies = 0.0
+}

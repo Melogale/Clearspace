@@ -1,0 +1,20 @@
+state = {
+	id = 211
+	name = "STATE_211"
+	manpower = 233630
+	state_category = rural
+	history = {
+		owner = BEO
+		add_core_of = BEO
+		victory_points = { 12942 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces = {
+		5152 12942 12970
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 133
+	name = "STATE_133"
+	manpower = 323635
+	state_category = pastoral
+	impassable = yes
+	history = {
+		owner = BUR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		7939 10917
+	}
+	local_supplies = 0.0
+}

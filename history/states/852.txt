@@ -1,0 +1,17 @@
+state = {
+	id = 852
+	name = "STATE_852"
+	manpower = 219083
+	state_category = town
+	history = {
+		owner = EST
+		add_core_of = EST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		415 3310 3333 11259
+	}
+	local_supplies = 0.0
+}

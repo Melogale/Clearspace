@@ -1,0 +1,20 @@
+state = {
+	id = 81
+	name = "STATE_81"
+	manpower = 1651330
+	state_category = city
+	history = {
+		owner = VIR
+		add_core_of = VIR
+		victory_points = { 12384 10 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces = {
+		638 4594 7583 9996 10492 11509 12384
+	}
+	local_supplies = 0.0
+}

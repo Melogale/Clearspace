@@ -1,0 +1,17 @@
+state = {
+	id = 162
+	name = "STATE_162"
+	manpower = 46668
+	state_category = wasteland
+	history = {
+		owner = UYG
+		add_core_of = SIK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		1943 2074 5736 10315
+	}
+	local_supplies = 0.0
+}

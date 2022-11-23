@@ -1,0 +1,192 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "FRA"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = conservatism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"SCD"={
+			history = "SCD_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"BAY"={
+			history = "BAY_GATHERING_STORM_DESC"
+			ideology = authoritarian_socialism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"PLC"={
+			history = "PLC_GATHERING_STORM_DESC"
+			ideology = social_democracy
+			ideas = {
+				PLC_polonisation
+				PLC_polish_language
+				PLC_polish_army
+			}
+			focuses = {
+				PLC_national_census
+				PLC_polish_domination
+				PLC_national_equity
+			}
+		}
+		"VIN"={
+			history = "VIN_GATHERING_STORM_DESC"
+			ideology = autocracy
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}		
+		}
+		"INC"={
+			history = "INC_GATHERING_STORM_DESC"
+			ideology = monolism
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}			
+		}
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		"RUS"={
+			minor = yes
+			history = "RUS_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"QIQ"={
+			minor = yes
+			history = "QIQ_GATHERING_STORM_DESC"
+			ideology = liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"QIN"={
+			minor = yes
+			history = "XIA_GATHERING_STORM_DESC"
+			ideology = autocracy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"CNU"={
+			minor = yes
+			history = "CNU_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"GCO"={
+			minor = yes
+			history = "GCO_GATHERING_STORM_DESC"
+			ideology = conservatism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"SPA"={
+			minor = yes
+			history = "SPA_GATHERING_STORM_DESC"
+			ideology = autocracy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"OTT"={
+			minor = yes
+			history = "OTT_GATHERING_STORM_DESC"
+			ideology = autocracy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"ITA"={
+			minor = yes
+			history = "HUN_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"EGY"={
+			minor = yes
+			history = "EGY_GATHERING_STORM_DESC"
+			ideology = autocracy
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		effect = {
+			randomize_weather = 22345
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 859
+	name = "STATE_859"
+	manpower = 3057994
+	state_category = rural
+	resources = {
+		rubber = 1
+	}
+	history = {
+		owner = SCD
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		2176 2281 5180 8182 8201 10845 10988 12944 12967 13209
+	}
+	local_supplies = 0.0
+}

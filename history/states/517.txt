@@ -1,0 +1,23 @@
+state = {
+	id = 517
+	name = "STATE_517"
+	manpower = 297818
+	state_category = town
+	resources = {
+		aluminium = 6
+		chromium = 1
+	}
+	history = {
+		owner = SCD
+		add_core_of = SCD
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces = {
+		102 188 199 3090 3093 3180 3188 6114 6136 6204 6216 9032 9127 9135 9216 11100
+	}
+	local_supplies = 0.0
+}

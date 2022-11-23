@@ -1,0 +1,24 @@
+state = {
+	id = 63
+	name = "STATE_63"
+	manpower = 871436
+	state_category = megalopolis
+	resources = {
+		aluminium = 1
+		steel = 7
+	}
+	history = {
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 4
+		}
+	}
+	provinces = {
+		3602 4417 4445 7289 7345 7629 9675 10230 10320 10381 11662 11665 11722 13158
+	}
+	local_supplies = 0.0
+}

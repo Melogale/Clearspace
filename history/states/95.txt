@@ -1,0 +1,30 @@
+state = {
+	id = 95
+	name = "STATE_95"
+	manpower = 2607382
+	state_category = city
+	resources = {
+		oil = 3
+	}
+	history = {
+		owner = VIR
+		add_core_of = VIR
+		victory_points = { 4464 1 }
+		victory_points = { 7480 1 }
+		victory_points = { 12735 1 }
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			4464 = {
+				naval_base = 4
+			}
+			7480 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces = {
+		1587 1615 4464 4565 4622 4650 4756 7422 7480 7524 7668 8110 10192 10449 12429 12735
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 55
+	name = "STATE_55"
+	manpower = 13537368
+	state_category = town
+	history = {
+		owner = ENG
+		victory_points = { 1349 10 }
+		buildings = {
+			infrastructure = 2
+			1349 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces = {
+		1349 7119 10270 12269
+	}
+	local_supplies = 0.0
+}

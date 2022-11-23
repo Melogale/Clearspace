@@ -1,0 +1,17 @@
+state = {
+	id = 803
+	name = "STATE_803"
+	manpower = 6834907
+	state_category = city
+	history = {
+		owner = KAS
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	provinces = {
+		1898 2032 3989 5002 5157 10021 10729 11955 12708
+	}
+	local_supplies = 0.0
+}

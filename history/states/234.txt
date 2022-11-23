@@ -1,0 +1,17 @@
+state = {
+	id = 234
+	name = "STATE_234"
+	manpower = 105275
+	state_category = pastoral
+	history = {
+		owner = GCO
+		add_core_of = GCO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		5317 8050 10849
+	}
+	local_supplies = 0.0
+}

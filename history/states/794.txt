@@ -1,0 +1,19 @@
+state = {
+	id = 794
+	name = "STATE_794"
+	manpower = 9014359
+	state_category = town
+	history = {
+		owner = KAS
+		victory_points = { 10887 5 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces = {
+		2076 7106 8007 9084 10066 10887 12005 12754 12822
+	}
+	local_supplies = 0.0
+}

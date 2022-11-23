@@ -1,0 +1,22 @@
+state = {
+	id = 696
+	name = "STATE_696"
+	manpower = 1912838
+	state_category = town
+	resources = {
+		oil = 1
+	}
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		victory_points = { 11437 10 }
+		victory_points = { 11561 1 }
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		6423 9419 9433 11422 11437 11561
+	}
+	local_supplies = 0.0
+}

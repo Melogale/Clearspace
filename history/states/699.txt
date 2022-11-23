@@ -1,0 +1,18 @@
+state = {
+	id = 699
+	name = "STATE_699"
+	manpower = 507376
+	state_category = rural
+	history = {
+		owner = PLC
+		add_core_of = PLC
+		victory_points = { 560 1 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		535 560 3556 6280 6579 11285 11503
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 475
+	name = "STATE_475"
+	manpower = 361816
+	state_category = city
+	resources = {
+		oil = 1
+		tungsten = 2
+	}
+	history = {
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = KUB
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	provinces = {
+		585 765 6783 9744 11559
+	}
+	local_supplies = 6.0
+}
