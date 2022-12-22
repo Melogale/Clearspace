@@ -3,7 +3,7 @@ tags={
 	"Alternative History"
 }
 name="Clearspace"
-supported_version="1.12.5"
+supported_version="1.12.7"
 
 
 replace_path="common/abilities"
